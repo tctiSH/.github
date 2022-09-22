@@ -3,7 +3,7 @@
 </p>
 
 # tctiSH
-Inspired by [iSH](https://github.com/ish-app/ish) and [UTM](https://github.com/utmapp/utm), tctiSH is a lightweight full linux runtime for iOS, iPadOS, and maybe one day watchOS. Built on top of [qemu-tcti](https://github.com/tctiSH/qemu), it has the ability to run x86_64 linux programs using the TCTI pseudo-JIT.
+Inspired by [iSH](https://github.com/ish-app/ish) and [UTM](https://github.com/utmapp/utm), tctiSH is a lightweight full Linux runtime for iOS, iPadOS, and maybe one day watchOS. Built on top of [qemu-tcti](https://github.com/tctiSH/qemu), it has the ability to run x86_64 Linux programs using the TCTI pseudo-JIT.
 
 > ### ⚠️ IMPORTANT ⚠️
 > This doesn't yet properly work. It is _highly_ experimental, and any use is at your own risk. Unless it _does_ work, in which case we've not updated the readme yet.
